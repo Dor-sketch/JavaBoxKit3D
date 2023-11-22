@@ -14,7 +14,7 @@ These classes include `Point3D`, `Box3D`, `Matrix`, and `Collection`, showcasing
 
 1. [**`Point3D`**:](Point3D.java) Represents a point in 3D space with x, y, and z coordinates.
 2. [**`Box3D`**:](Box3D.java) Represents a 3D box with properties such as length, width, height, and a base point (`Point3D`).
-3. [**`Matrix`**:](Box3D.java) A class that represents a two-dimensional matrix with various methods for matrix manipulation like rotation and averaging.
+3. [**`Matrix`**:](Matrix.java) A class that represents a two-dimensional matrix with various methods for matrix manipulation like rotation and averaging.
 4. [**`Collection`**:](Collection.java) Represents a collection of `Box3D` objects, showcasing how to manage and manipulate a group of objects. It includes methods to add boxes, find the box with the most upper base corner, calculate total surface area, longest distance between boxes, and more.
 
 ## 🌟 Key Concepts Covered
